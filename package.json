@@ -1,0 +1,20 @@
+{
+  "name": "javascriptexmples",
+  "version": "1.0.0",
+  "description": "Collection of different javascript functions",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "typescript": "^3.6.2",
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "examples"
+  ],
+  "author": "Blake Noll",
+  "license": "ISC"
+}
